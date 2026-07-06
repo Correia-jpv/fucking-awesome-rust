@@ -554,6 +554,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [tw93/Pake](https://github.com/tw93/Pake) - Turn any webpage into a desktop app with one command using Rust and Tauri. Lightweight, fast, and supports macOS, Windows, and Linux.
 * [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - Lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools (Cursor, Claude Code, Codex, Copilot, etc.) with Tauri 2, Rust backend, and Git backup support.
 * [yashs662/rust_kanban](https://github.com/yashs662/rust_kanban) [[rust-kanban](https://crates.io/crates/rust-kanban)] [![Build](https://github.com/yashs662/rust_kanban/actions/workflows/build.yml/badge.svg)](https://github.com/yashs662/rust_kanban/releases) - A Kanban App for the terminal
+* [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting assistant that captures, transcribes, and summarizes meetings entirely on your local machine. Features real-time transcription with Whisper/Parakeet models, AI-powered summaries, and support for multiple AI providers (Ollama, Claude, Groq, OpenAI)
 
 ### Routing protocols
 

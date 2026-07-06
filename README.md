@@ -967,6 +967,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * Docker
   * [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) - Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries
   * [kpcyrd/mini-docker-rust](https://github.com/kpcyrd/mini-docker-rust) - An example project for very small rust docker images
+  * [lenra-io/dofigen](https://github.com/lenra-io/dofigen) [[dofigen](https://crates.io/crates/dofigen/)] - Dockerfile generator using a simplified description in YAML or JSON format ![Rust CI](https://github.com/lenra-io/dofigen/actions/workflows/build_ci.yml/badge.svg)
   * [liuchong/docker-rustup](https://github.com/liuchong/docker-rustup) - A multiple version (with musl tools) Rust Docker image
   * [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
   * [moghtech/komodo](https://github.com/moghtech/komodo) - A tool to build and deploy software across many servers, with a web UI, API, and no server limits

@@ -2,7 +2,7 @@ name: PR tidyup
 on:
   push:
   pull_request_target:
-    types: [opened, reopened]
+    types: [opened, reopened, synchronize]
 jobs:
   pr_tidyup:
     runs-on: ubuntu-24.04
